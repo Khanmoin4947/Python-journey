@@ -23,6 +23,8 @@ Each file in this repo is named according to the lesson or topic it covers. Here
 | 13 | String Methods |
 | 14 | If-Else Conditional Statements |
 | 15 | Good Morning Exercise |
+| 16 | Match Case Statements in Python |
+| 17 | For Loops in Python |
 
 *(More topics are being added as I continue learning!)*
 
