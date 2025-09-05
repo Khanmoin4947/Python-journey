@@ -25,6 +25,10 @@ Each file in this repo is named according to the lesson or topic it covers. Here
 | 15 | Good Morning Exercise |
 | 16 | Match Case Statements in Python |
 | 17 | For Loops in Python |
+| 18 | While-Loops-in-Python |
+| 19 | break-and-continue |
+| 20 | Functions-in-Python |
+| 21 | Function-Arguments-in-Python |
 
 *(More topics are being added as I continue learning!)*
 

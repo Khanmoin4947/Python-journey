@@ -10,3 +10,11 @@ count = int(input("Enter your number: "))
 while(count>0):
     print(count)
     count=count-1
+
+# Use of else in loop
+i = 5
+while(i<0):
+     print(i)
+     i=i-1
+else:
+     print("now i am inside else")
