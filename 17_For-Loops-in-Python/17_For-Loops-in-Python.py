@@ -1,3 +1,4 @@
+# WE Use for loops when you know how many times you want to repeat something.
 # name = "moin khan"
 
 # for i in name:

@@ -1,3 +1,4 @@
+# We use while loops when we want to repeat until a condition becomes false.
 # First loop
 i = int(input("Enter your number: "))
 while(i<=40):
