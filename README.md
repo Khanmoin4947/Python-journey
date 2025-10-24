@@ -29,6 +29,10 @@ Each file in this repo is named according to the lesson or topic it covers. Here
 | 19 | break-and-continue |
 | 20 | Functions-in-Python |
 | 21 | Function-Arguments-in-Python |
+| 22 | Introduction-to-Lists |
+| 23 | List-Methods |
+| 24 | Tuples-in-python |
+| 25 | 25_Operations-on-Tuples |
 
 *(More topics are being added as I continue learning!)*
 
