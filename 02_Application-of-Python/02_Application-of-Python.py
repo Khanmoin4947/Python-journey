@@ -23,3 +23,4 @@ for (x,y,w,h) in faces:
 #Displaying The Output Image
 cv2.imshow('img', img)
 cv2.waitKey()
+
