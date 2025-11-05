@@ -33,6 +33,13 @@ Each file in this repo is named according to the lesson or topic it covers. Here
 | 23 | List-Methods |
 | 24 | Tuples-in-python |
 | 25 | 25_Operations-on-Tuples |
+| 26 | 26_Exercise-2_Solution |
+| 27 | 27_Exercise-3 |
+| 28 | 28_f-strings-in-Python |
+| 29 | 29_Docstrings-in-Python |
+| 30 | 30_Recursion-in-Python |
+| 31 | coming soon |
+
 
 *(More topics are being added as I continue learning!)*
 
