@@ -1,0 +1,10 @@
+s={1,2,3,2,}
+
+print(s)
+
+for value in s:
+    print(value)
+    
+# empty set
+moin=set()
+print(type(moin))
