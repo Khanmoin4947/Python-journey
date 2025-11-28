@@ -38,7 +38,13 @@ Each file in this repo is named according to the lesson or topic it covers. Here
 | 28 | 28_f-strings-in-Python |
 | 29 | 29_Docstrings-in-Python |
 | 30 | 30_Recursion-in-Python |
-| 31 | coming soon |
+| 31 | 31_Sets-in-Python |
+| 32 | 32_Set-Methods-in-Python |
+| 33 | 33_Dictionaries-in-Python |
+| 34 | 34_Dictionary-Methods-in-Pythonn |
+| 35 | 35_for-Loop-with-else-in-Python |
+| 36 | 36_Exception-Handling-in-Python |
+| 37 | coming soon |
 
 
 *(More topics are being added as I continue learning!)*
