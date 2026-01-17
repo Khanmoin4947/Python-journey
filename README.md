@@ -59,4 +59,4 @@ Each file in this repo is named according to the lesson or topic it covers. Here
 
 ---
 
-## just Getting Started
+## Just Getting Started
